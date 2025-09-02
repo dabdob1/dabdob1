@@ -36,5 +36,5 @@ class AboutMe {
   final String role = "Computer Science Student";
   final List<String> programmingLanguages = ["C#", "Java", "Python", "JavaScript", "HTML", "CSS"];
   final List<String> databases = ["SQLite"];
-  final List<String> tools = ["Git", "VSCode", "Figma", "Linux"];
+  final List<String> tools = ["Git", "VSCode"];
 }
